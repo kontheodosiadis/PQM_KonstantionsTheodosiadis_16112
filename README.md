@@ -21,4 +21,4 @@ Here are my projects for the undergraduate course *Topics in Quantum Physics*. T
 ![PQM_IntroImage](PQM_IntroImage.png)
 
 ## Assignment Description
-* Assignment 1: The 1st assignment is a computational study of the infinite square well using the analytic solution for the wavefunction. In the first part, the spatial parts of the wavefunction and their corresponding probability distributions are plotted. In the second part, the time evolution of a superposition of the eigenstates is animated.
+* **Assignment 1**: The 1st assignment is a computational study of the infinite square well using the analytic solution for the wavefunction. In the first part, the spatial parts of the wavefunction and their corresponding probability distributions are plotted. In the second part, the time evolution of a superposition of the eigenstates is animated.
